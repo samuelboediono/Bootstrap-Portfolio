@@ -1,0 +1,24 @@
+.work {
+	position: relative;
+	float: left;
+	width: 100%;
+}
+
+.work img {
+	width: 80%;
+	margin: 20px 10px 20px 10px;
+	position: relative;
+	opacity: 0.8;
+	height: 250px;
+}
+
+.work h3 {
+	position: absolute;
+	top: 150px; 
+   	left: 10px; 
+   	width: 80%;
+   	color: white;   
+   	background: #4aaaa5; 
+   	text-align: center;
+   	padding: 15px;
+}
